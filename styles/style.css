@@ -102,6 +102,7 @@ body {
   color: #ffff;
   background-color: #e55473;
   outline: none;
+  border: none;
   border-radius: 5px;
 }
 .featured--section {
@@ -232,6 +233,7 @@ body {
   color: #ffff;
   background-color: #e55473;
   outline: none;
+  border: none;
   border-radius: 5px;
 }
 .highlight {
@@ -348,31 +350,3 @@ body {
   opacity: 40%;
   font-size: 1.8rem;
 }
-/*
-- Color
-pink-1 : #ffdeeb
-pink-2 : #fcc2d7
-pink-3 : #faa2c1 
-grey-1 : #272727
-grey-6 : #868e96
-grey-7 : #495057
-
-- Font sizes (px)
-10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
-
-- Spacing system (px)
-2 / 4 / 8 / 12 / 16 / 24 / 32 / 48 / 64 / 80 / 96 / 128
-
-- Font weights
-Default: 400
-Medium: 500
-Semi-bold: 600
-Bold: 700
-
-- Line heights
-Default: 1
-Small: 1.05
-Medium: 1.2
-Paragraph default: 1.6
-Large: 1.8
-*/
